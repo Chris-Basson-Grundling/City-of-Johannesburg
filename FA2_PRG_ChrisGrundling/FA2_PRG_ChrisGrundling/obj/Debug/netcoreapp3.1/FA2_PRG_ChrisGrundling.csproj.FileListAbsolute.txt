@@ -1,0 +1,194 @@
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.StaticWebAssets.xml
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\app.db
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.exe
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.deps.json
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.runtimeconfig.json
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.pdb
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.Views.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.Views.pdb
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorAssemblyInfo.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorAssemblyInfo.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.TagHelpers.input.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.TagHelpers.output.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorCoreGenerate.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorTargetAssemblyInfo.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.Views.pdb
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.csproj.CopyComplete
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\staticwebassets\FA2_PRG_ChrisGrundling.StaticWebAssets.Manifest.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\staticwebassets\FA2_PRG_ChrisGrundling.StaticWebAssets.xml
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.dll
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.pdb
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.genruntimeconfig.cache
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Documents.cshtml.g.cs
+C:\Users\Chris\Desktop\Web_Dev\2nd Year\Semester 2\C#\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\app.db
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.StaticWebAssets.xml
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.exe
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.deps.json
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.pdb
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.Views.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.Views.pdb
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorAssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.TagHelpers.input.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.TagHelpers.output.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorCoreGenerate.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Documents.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorTargetAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.RazorTargetAssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.Views.pdb
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\staticwebassets\FA2_PRG_ChrisGrundling.StaticWebAssets.Manifest.cache
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\staticwebassets\FA2_PRG_ChrisGrundling.StaticWebAssets.xml
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.dll
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.pdb
+C:\Users\chris\OneDrive\Desktop\Chris\CV\Projects\MVC (C#)\FA2\AppMVC\FA2_PRG_ChrisGrundling\FA2_PRG_ChrisGrundling\obj\Debug\netcoreapp3.1\FA2_PRG_ChrisGrundling.genruntimeconfig.cache
