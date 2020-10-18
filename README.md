@@ -1,5 +1,5 @@
 # City-of-Johannesburg
- This is a c# Asp.net CORE MVC web application showing Johannesburg inportant information. The web application includes a register and login page.
+ This is a c# Asp.net CORE MVC web application showing Johannesburg important information. The web application includes a register and login page.
 
 To run this web apliction: 
 - Download the FA2_PRG_ChrisGrundling file.
